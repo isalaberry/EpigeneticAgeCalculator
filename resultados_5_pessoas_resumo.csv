@@ -1,0 +1,6 @@
+amostra,idade_epigenetica,idade_preliminar,modelo_aplicado,probes_recebidos,probes_com_beta_valido,linhas_de_probes_recebidas,probes_necessarios,probes_utilizados_medidos,probes_ausentes,probes_imputados,cobertura_percentual,situacao
+BoA462,17.863081879804476,13.841104116834199,young,7860,7822,8017,6330,6291,39,39,99.3839,OK (com imputação)
+BoA45,28.22347724606999,26.552880233458726,young,7860,7707,8017,6330,6185,145,145,97.7093,OK (com imputação)
+BoA339,43.88660597417126,43.86752605796864,middle,7860,7850,8017,6141,6129,12,12,99.8046,OK (com imputação)
+BoA11,52.887354525417315,54.252713243293684,middle,7860,7812,8017,6141,6095,46,46,99.2509,OK (com imputação)
+BoA377,74.30690161259199,74.47285789154472,old,7860,7688,8017,6465,6309,156,156,97.587,OK (com imputação)

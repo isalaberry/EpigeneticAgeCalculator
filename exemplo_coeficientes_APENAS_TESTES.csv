@@ -1,0 +1,10 @@
+model,feature,coefficient,term
+general,(Intercept),10,intercept
+general,cg00000029,40,linear
+general,cg00000109,10,square
+young,(Intercept),8,intercept
+young,cg00000029,35,linear
+middle,(Intercept),28,intercept
+middle,cg00000029,35,linear
+old,(Intercept),48,intercept
+old,cg00000029,35,linear
