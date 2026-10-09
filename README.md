@@ -239,4 +239,5 @@ A coverage warning below 95% is an **implementation-specific precaution**, **not
 3. **Associated dataset publication:** Moqri, M., et al. *Integrative epigenetics and transcriptomics identify aging genes in human blood*. **Nature Communications** (2026). https://doi.org/10.1038/s41467-025-67369-1
 
 **Attribution:** The scientific models, supplementary weights, reference means, and public methylation data belong to their respective authors and data providers. This repository is an independent educational/research implementation, not an official calculator maintained or endorsed by the article's authors.
+
 **AI Usage:** OpenAI's GPT-6 (ChatGPT) was used to assist with code development, debugging, testing, and documentation. Epigenetic age predictions are calculated using the original scientific model by Garma and Quintela-Fandiño (2024), not AI-generated predictions.
